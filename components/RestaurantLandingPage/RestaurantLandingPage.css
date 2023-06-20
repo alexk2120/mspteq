@@ -1,0 +1,381 @@
+.restaurant-landing-page {
+  align-items: center;
+  background-color: var(--dawn-pink);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 5455px;
+  width: 1296px;
+}
+
+.flex-row {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  gap: 175px;
+  margin-left: 9px;
+  margin-top: 5px;
+  min-width: 869px;
+}
+
+.about-page-banner-im {
+  height: 113px;
+  width: 130px;
+}
+
+.mr-sancho-pancho-teq {
+  height: 45px;
+  width: 564px;
+}
+
+.rectangle-1 {
+  height: 540px;
+  margin-left: 2.0px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 1188px;
+}
+
+.x100-tequila-de-agave {
+  height: 117px;
+  margin-left: 41.77px;
+  margin-top: 27px;
+  width: 517px;
+}
+
+.flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 2px;
+  margin-left: 65.0px;
+  margin-top: 218px;
+  min-width: 1001px;
+}
+
+.overlap-group1 {
+  height: 584px;
+  position: relative;
+  width: 657px;
+}
+
+.rectangle-5 {
+  height: 584px;
+  left: 315px;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.rectangle-4 {
+  height: 584px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.rectangle-3 {
+  height: 584px;
+  width: 342px;
+}
+
+.overlap-group {
+  height: 2404px;
+  margin-right: 3.0px;
+  margin-top: 109px;
+  position: relative;
+  width: 1193px;
+}
+
+.contact-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  height: 337px;
+  justify-content: center;
+  left: 55px;
+  padding: 10px 10px 10px 50px;
+  position: absolute;
+  top: 2067px;
+  width: 1033px;
+}
+
+.flex-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  height: 129px;
+  width: 730px;
+}
+
+.text {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 730px;
+}
+
+.frame-4 {
+  align-items: center;
+  background-color: var(--dawn-pink);
+  border-radius: 100px;
+  display: flex;
+  gap: 296px;
+  height: 60px;
+  padding: 10px 50px;
+  position: relative;
+  width: 854px;
+}
+
+.yourmailgmailcom {
+  background-color: transparent;
+  border: 0;
+  color: #8d8d8d;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  height: 68px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -13.00px;
+  margin-top: -15.00px;
+  min-width: 334px;
+  padding: 0;
+  position: relative;
+}
+
+.yourmailgmailcom::placeholder {
+  color: #8d8d8d99;
+}
+
+.learn-more-button {
+  align-items: center;
+  background-color: #fe9e0d;
+  border-radius: 100px;
+  display: flex;
+  gap: 10px;
+  height: 55px;
+  justify-content: center;
+  margin-bottom: -7.50px;
+  margin-right: -83.00px;
+  margin-top: -7.50px;
+  padding: 10px;
+  position: relative;
+  width: 207px;
+}
+
+.submit {
+  color: #ffffff;
+  cursor: pointer;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  height: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  width: 149px;
+}
+
+.vector {
+  height: 394px;
+  left: 151px;
+  position: absolute;
+  top: 1470px;
+  width: 907px;
+}
+
+.about-section-background {
+  height: 1050px;
+  left: 0;
+  position: absolute;
+  top: 1161px;
+  width: 268px;
+}
+
+.rectangle-2 {
+  height: 647px;
+  left: 108px;
+  position: absolute;
+  top: 725px;
+  width: 965px;
+}
+
+.banner-background {
+  height: 1076px;
+  left: 835px;
+  position: absolute;
+  top: 175px;
+  width: 358px;
+}
+
+.about-section-info-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 82px;
+  height: 630px;
+  left: 70px;
+  position: absolute;
+  top: 0;
+  width: 1065px;
+}
+
+.about-section-text-container {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+}
+
+.heading {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 113px;
+  position: relative;
+  width: 749px;
+}
+
+.title {
+  color: #f4980c;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -320.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 1069px;
+}
+
+.flex-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  height: 585px;
+  left: 151px;
+  position: absolute;
+  top: 98px;
+  width: 907px;
+}
+
+.text-1 {
+  letter-spacing: 0;
+  line-height: 34.9px;
+  position: relative;
+  width: 907px;
+}
+
+.text-2 {
+  letter-spacing: 0;
+  line-height: 34.9px;
+  position: relative;
+  white-space: nowrap;
+  width: 907px;
+}
+
+.home-page-banner-ima {
+  height: 323px;
+  margin-left: 28.0px;
+  margin-top: 103px;
+  width: 338px;
+}
+
+.phone {
+  color: var(--black);
+  font-family: var(--font-family-reem_kufi);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 125px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 50.0px;
+  margin-top: 422px;
+  width: 178px;
+}
+
+.salesmrsanchopanchocom {
+  color: var(--gravel);
+  cursor: pointer;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 23.0px;
+  text-decoration: underline;
+  width: 333px;
+}
+
+.overlap-group2 {
+  height: 298px;
+  margin-right: 8.0px;
+  margin-top: 58px;
+  position: relative;
+  width: 1058px;
+}
+
+.footer-section {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: 113px;
+  left: 91px;
+  overflow: hidden;
+  padding: 10px;
+  position: absolute;
+  top: 185px;
+  width: 704px;
+}
+
+.section-2 {
+  height: 104px;
+  margin-bottom: -11.00px;
+  min-width: 783px;
+  position: relative;
+}
+
+.flex-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 202px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1058px;
+}
+
+.text-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 1058px;
+}
+
+.text5 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 1058px;
+}
+

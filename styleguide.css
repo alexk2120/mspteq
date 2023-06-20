@@ -1,0 +1,38 @@
+:root { 
+  --black: #000000;
+  --dawn-pink: #f1e8e8;
+  --gravel: #4b4b4b;
+  --mine-shaft: #2f2f2f;
+ 
+  --font-size-l: 25px;
+  --font-size-m: 20px;
+  --font-size-s: 16px;
+  --font-size-xl: 30px;
+  --font-size-xxl: 40px;
+ 
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-reem_kufi: "Reem Kufi", Helvetica;
+}
+.reemkufi-medium-mine-shaft-16px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-reem_kufi);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.montserrat-medium-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.montserrat-bold-gravel-40px {
+  color: var(--gravel);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
